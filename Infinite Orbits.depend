@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1574523728 source:/home/libres/Documents/C/son/Infinite Orbits/main.cpp
+	<SFML/Graphics.hpp>
+
+1574605179 source:/home/libres/Documents/C/Infinite Orbits/main.cpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	"include/Joueur.h"
+
+1575049179 /home/libres/Documents/C/Infinite Orbits/include/Joueur.h
+	<SFML/Graphics.hpp>
+
+1574605299 source:/home/libres/Documents/C/Infinite Orbits/src/Joueur.cpp
+	"Joueur.h"
+	<cmath>
+	<iostream>
+
+1574600912 /home/libres/Documents/C/Infinite Orbits/include/VectorOperators.hpp
+	<cmath>
+
+1582728612 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/main.cpp
+	<SFML/Graphics.hpp>
+	<cmath>
+	<iostream>
+	"include/Joueur.h"
+	"include/Carte.h"
+	"include/CanevasJeu.h"
+
+1582717243 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/Joueur.h
+	<SFML/Graphics.hpp>
+	"Orbite.h"
+	"Carte.h"
+	"CanevasJeu.h"
+
+1582732659 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/Joueur.cpp
+	"Joueur.h"
+	<cmath>
+	<iostream>
+	"operationsVecteurs.h"
+	"../include/Orbite.h"
+
+1582726349 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/operationsVecteurs.h
+	<SFML/Graphics.hpp>
+
+1581866745 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/operationsVecteurs.cpp
+	<cmath>
+	"operationsVecteurs.h"
+	<SFML/Graphics.hpp>
+
+1582726349 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/operationsVecteurs.h
+	<SFML/Graphics.hpp>
+
+1582726409 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/operationsVecteurs.cpp
+	<cmath>
+	"operationsVecteurs.h"
+	<SFML/Graphics.hpp>
+
+1582387031 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/orbite.cpp
+	"orbite.h"
+
+1582386656 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/orbite.h
+	<SFML/Graphics.hpp>
+	"operationsVecteurs.h"
+
+1582387306 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/carte.cpp
+	"carte.h"
+	<SFML/Graphics.hpp>
+
+1582387094 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/carte.h
+	<SFML/Graphics.hpp>
+	<orbite.h>
+	<vector>
+
+1582727185 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/Carte.h
+	<SFML/Graphics.hpp>
+	<Orbite.h>
+	<vector>
+
+1582727097 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/Orbite.h
+	<SFML/Graphics.hpp>
+	"CanevasJeu.h"
+	"operationsVecteurs.h"
+
+1582727246 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/Carte.cpp
+	"Carte.h"
+	<SFML/Graphics.hpp>
+
+1582732410 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/Orbite.cpp
+	"Orbite.h"
+
+1582717916 /media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/include/CanevasJeu.h
+	<SFML/Window.hpp>
+
+1582718114 source:/media/fabio/0f5af494-8622-447c-8a71-3407a567814a/home/libres/Documents/C/Infinite Orbits/src/CanevasJeu.cpp
+	"../include/CanevasJeu.h"
+
